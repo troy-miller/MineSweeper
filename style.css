@@ -8,7 +8,7 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
     color: red;
-    background-color: blue;
+    background-color: white;
     border-style: solid;
     z-index: 1;
 }
@@ -36,5 +36,5 @@
     color: blue;
 }
 body {
-    background-color: blue;
+    background-color: white;
 }
